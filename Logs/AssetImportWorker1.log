@@ -367,3 +367,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5225.710623 seconds.
+  path: Assets/Audio/ambiance/csve/chauve_souris/amb_cave_bassem02.wav
+  artifactKey: Guid(13d21d87ae78a46e5a67de488a1e9758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve/chauve_souris/amb_cave_bassem02.wav using Guid(13d21d87ae78a46e5a67de488a1e9758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1188d21c30f29c34844b112a72b832b1') in 0.143353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2

@@ -423,3 +423,67 @@ Received Import Request.
 Start importing Assets/3DGamekitLite/Scripts/Effects/EffectEvents.cs using Guid(307f4c15d45ccff4292feb0c5477ade4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df287b7e08e7b8eaf6c876f5824bd219') in 0.000427 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5118.295359 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(b2a6230cbc50674439272af272ea5075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(b2a6230cbc50674439272af272ea5075) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65db2938935bcce4ed98ae30a77a5a56') in 0.002397 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.629999 seconds.
+  path: Assets/Audio/ambiance
+  artifactKey: Guid(8d3d2ada61d364ea1a95de9456a6f439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance using Guid(8d3d2ada61d364ea1a95de9456a6f439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ecb62ff54e29f0e7232da2e03f6023') in 0.001509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.034610 seconds.
+  path: Assets/Audio/ambiance/csve
+  artifactKey: Guid(4eb70896dbc414ec9a9d5247e61e196a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve using Guid(4eb70896dbc414ec9a9d5247e61e196a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c7cd7fdbf1713fccb4dd9136b023bd') in 0.000508 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.052346 seconds.
+  path: Assets/Audio/ambiance/csve/amb_cave_ambiance.wav
+  artifactKey: Guid(a645cbc21284d4d2b9f0f031a81e7900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve/amb_cave_ambiance.wav using Guid(a645cbc21284d4d2b9f0f031a81e7900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1eeee5444f7ea9ce8b1e3dc699ed13') in 0.028328 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 15.076579 seconds.
+  path: Assets/Audio/ambiance/csve/chauve_souris
+  artifactKey: Guid(0b834ec4e767d48ed8e4922f2f77b6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve/chauve_souris using Guid(0b834ec4e767d48ed8e4922f2f77b6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '057a66b090ea5b7ead43e0711cab7ce9') in 0.001777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.062722 seconds.
+  path: Assets/Audio/ambiance/csve/chauve_souris/amb_cave_bassem01.wav
+  artifactKey: Guid(cb2ddfe3a26f744f8988ff8fae068b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve/chauve_souris/amb_cave_bassem01.wav using Guid(cb2ddfe3a26f744f8988ff8fae068b57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5300af9a48665e88ae1724166e41bc') in 0.138050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Audio/ambiance/csve/chauve_souris/amb_cave_bassem03.wav
+  artifactKey: Guid(6af2b876aeb3a4c39b7029ff108e3ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve/chauve_souris/amb_cave_bassem03.wav using Guid(6af2b876aeb3a4c39b7029ff108e3ccd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e78575da4269f915aa9508c3f4aed8b') in 0.005007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 302.864602 seconds.
+  path: Assets/Audio/ambiance/csve/amb_cave_ambiance.wav
+  artifactKey: Guid(a645cbc21284d4d2b9f0f031a81e7900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/ambiance/csve/amb_cave_ambiance.wav using Guid(a645cbc21284d4d2b9f0f031a81e7900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9af2b89f440b0d82926c8ee133f9c18a') in 0.007919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
